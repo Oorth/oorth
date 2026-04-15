@@ -30,6 +30,7 @@ Now since you are here why not visit my repositories
 How about this one [ https://github.com/Oorth/Remote-Access-Trojan-Windows ]
 >You will like it (⌐■_■)
 
+My Technical Blog -> http://arth.imbeddex.com/
 My Linked in -> https://www.linkedin.com/in/arth-maurya/
 
 <!--
