@@ -27,7 +27,7 @@ And I use these languages for the same  ↓
 <img alt="My stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oorth&layout=compact&theme=transparent"/>
 
 Now since you are here why not visit my repositories
-How about this one [ [https://github.com/Oorth/Remote-Access-Trojan-Windows](https://github.com/Oorth/YetAnotherReflectiveLoader) ]
+How about this one [ https://github.com/Oorth/YetAnotherReflectiveLoader ]
 >You will like it (⌐■_■)
 
 My Technical Blog -> http://arth.imbeddex.com/ </br>
