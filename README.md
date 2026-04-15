@@ -12,11 +12,11 @@
 
 A Cybersecurity Enthusiast :)
 
-who specialises in ->
+who specializes in ->
 ```markdown
->  Malware Development
+>  Vulnerability Research
 >  Reverse Engineering
->  PenTesting
+>  Direct Kernel Object Manipulation
 >  RF Hacking
 ```
 I prefer developing my own tools, malwares, protocols rather then using scripts
